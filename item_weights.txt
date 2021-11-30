@@ -1,0 +1,5 @@
+item	weight	value
+penny	4	1
+nickel	4	2
+dime	1	10
+quarter	6	25
